@@ -1,0 +1,17 @@
+{
+  "name": "solver",
+  "version": "0.0.0",
+  "description": "solver to peachly",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Peachly/solver"
+  },
+  "homepage": "https://github.com/Peachly/solver",
+  "dependencies": {
+    "google-finance": ">= 0.1.0"
+  }
+}
